@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T09:30:47.522Z" agent="5.0 (Windows)" etag="SNVR4LN1qbovtBkSCiY3" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T09:34:41.463Z" agent="5.0 (Windows)" etag="U1VZ-OTCbbnpjQ07i3Yq" version="16.5.6" type="github">
   <diagram id="xVj9goOM0HoYAq6a2udZ" name="Page-1">
     <mxGraphModel dx="1102" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="WERg9MYtYTJD5pxzwSMF-41" value="Yapı Ruhsatı Verilmesi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="454" y="85" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WERg9MYtYTJD5pxzwSMF-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WERg9MYtYTJD5pxzwSMF-48" target="WERg9MYtYTJD5pxzwSMF-91">
+        <mxCell id="WERg9MYtYTJD5pxzwSMF-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="1" source="WERg9MYtYTJD5pxzwSMF-48" target="WERg9MYtYTJD5pxzwSMF-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="700" />
