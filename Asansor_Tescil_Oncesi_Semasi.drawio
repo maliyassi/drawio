@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T08:43:01.801Z" agent="5.0 (Windows)" etag="ORugZvyw6rA49g9amVew" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T08:46:25.345Z" agent="5.0 (Windows)" etag="3xGUOLtKLNtj5sudOp1s" version="16.5.6" type="github">
   <diagram id="xVj9goOM0HoYAq6a2udZ" name="Page-1">
     <mxGraphModel dx="1102" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="WERg9MYtYTJD5pxzwSMF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WERg9MYtYTJD5pxzwSMF-10" target="WERg9MYtYTJD5pxzwSMF-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WERg9MYtYTJD5pxzwSMF-10" value="A Tipi Muayene Kuruluşu Kontrolü" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WERg9MYtYTJD5pxzwSMF-10" value="İlk Periyodik Kontrol" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="620" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WERg9MYtYTJD5pxzwSMF-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WERg9MYtYTJD5pxzwSMF-12" target="WERg9MYtYTJD5pxzwSMF-16">
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="WERg9MYtYTJD5pxzwSMF-14" value="Diğer Renkli Bilgi Etiketleri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="760" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WERg9MYtYTJD5pxzwSMF-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WERg9MYtYTJD5pxzwSMF-16" target="WERg9MYtYTJD5pxzwSMF-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WERg9MYtYTJD5pxzwSMF-16" value="Tescil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1060" width="200" height="60" as="geometry" />
@@ -93,6 +96,18 @@
         </mxCell>
         <mxCell id="WERg9MYtYTJD5pxzwSMF-30" value="&lt;div&gt;Takip Kontrolü&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="860" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WERg9MYtYTJD5pxzwSMF-38" value="Yıllık Periyodik Kontroller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WERg9MYtYTJD5pxzwSMF-40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="400" as="sourcePoint" />
+            <mxPoint x="240" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WERg9MYtYTJD5pxzwSMF-41" value="Yapı Ruhsatı Verilmesi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="604" y="386" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
