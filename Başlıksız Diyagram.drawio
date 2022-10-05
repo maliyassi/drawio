@@ -1,1 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T06:00:45.175Z" agent="5.0 (Windows)" version="20.1.4" etag="ge3kZ9FKvlRcgfD4etdT" type="github"><diagram id="qriRyxFzz8gkJYM9D5iq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-05T06:12:44.294Z" agent="5.0 (Windows)" etag="AwrgHm0HPyIJmwt7Vn82" version="20.1.4" type="github">
+  <diagram id="qriRyxFzz8gkJYM9D5iq" name="Sayfa -1">
+    <mxGraphModel dx="1102" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-1" target="RSTSHhaGoju2gHl5oDcA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="170" />
+              <mxPoint x="520" y="170" />
+              <mxPoint x="520" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-1" value="Denetime konu firma son 6 ay içerisinde faaliyet gösterdiği bir firma mı?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-12" target="RSTSHhaGoju2gHl5oDcA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-2" value="Asansör firması mı?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-5" target="RSTSHhaGoju2gHl5oDcA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-5" value="&lt;div&gt;Adana&#39;da mı faaliyet gösteriyor?&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="326" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-7" value="CEZA YOK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-9" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-11" value="Hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-12" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="286" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-2" target="RSTSHhaGoju2gHl5oDcA-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="260" as="sourcePoint" />
+            <mxPoint x="320" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-14" value="Hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-18" value="SGK HİZMET DÖKÜMÜ İLE İLGİLİ İL MÜD. BİLDİR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="341" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-19" value="Hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="326" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-20" target="RSTSHhaGoju2gHl5oDcA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-20" value="6 ay içerisinde çalıştığı ilk firma mı?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="466" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-22" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-24" value="Hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="466" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-25" value="İ.P.C." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="750" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="636" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-26" value="İşe girdiği tarihte çalıştığı başka bir firma var mı?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="606" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-28" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-30" value="CEZA YOK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468" y="621" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-32" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="RSTSHhaGoju2gHl5oDcA-26" target="RSTSHhaGoju2gHl5oDcA-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="740" as="targetPoint" />
+            <mxPoint x="320" y="666" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSTSHhaGoju2gHl5oDcA-35" value="İ.P.C." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467" y="492" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
