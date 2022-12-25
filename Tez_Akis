@@ -1,1 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T22:15:22.745Z" agent="5.0 (Windows)" version="20.7.4" etag="3SFecybFU5OmCgFr6qNB" type="github"><diagram id="cBGIPae8Ncl7MmlN4-wV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-25T22:29:35.710Z" agent="5.0 (Windows)" version="20.7.4" etag="Eyns417YTgK8bbuoLBYG" type="github">
+  <diagram id="-C1gNbcvStbxhz_P5RDp" name="Sayfa -1">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_Z1Q3BvuzWRl_JL9kF0-1" target="J_Z1Q3BvuzWRl_JL9kF0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-1" value="&lt;p&gt;Yapı Üretiminde Asansör Risk Değerlendirme FaktörlerininUzman Görüşü Açısından Risk Durumları&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_Z1Q3BvuzWRl_JL9kF0-2" target="J_Z1Q3BvuzWRl_JL9kF0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-2" value="Literatür Taraması" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_Z1Q3BvuzWRl_JL9kF0-4" target="J_Z1Q3BvuzWRl_JL9kF0-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="380" />
+              <mxPoint x="260" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_Z1Q3BvuzWRl_JL9kF0-4" target="J_Z1Q3BvuzWRl_JL9kF0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-4" value="ASTAK Verilerinin Alınması" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_Z1Q3BvuzWRl_JL9kF0-6" target="J_Z1Q3BvuzWRl_JL9kF0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-6" value="&lt;div&gt;İlk Periyodik Kontrol Verileri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_Z1Q3BvuzWRl_JL9kF0-10" target="J_Z1Q3BvuzWRl_JL9kF0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-10" value="&lt;div&gt;Yıllık Periyodik Kontrol Verileri&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_Z1Q3BvuzWRl_JL9kF0-12" target="J_Z1Q3BvuzWRl_JL9kF0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-12" value="&lt;div&gt;Verilerin yaklaşık %80&#39;ini kapsayan %45 ile %10 uygunsuzluk oranı arası 93 alt maddenin belirlenmesi&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_Z1Q3BvuzWRl_JL9kF0-14" target="J_Z1Q3BvuzWRl_JL9kF0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-14" value="&lt;div&gt;Verilerin yaklaşık %80&#39;ini kapsayan %55? ile %10 uygunsuzluk oranı arası 95 alt maddenin belirlenmesi&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_Z1Q3BvuzWRl_JL9kF0-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-16" value="EY, Y, OY, D ve ED olarak önem seviyelerinin belirlenmesi" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-20" value="EY, Y, OY ve O önem seviyelerinde olan alt maddeler dikkate alındı. Bu alt maddeler toplam uygunsuzluğun %55&#39;ini kapsamaktadır." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="720" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="259.5" y="760" as="sourcePoint" />
+            <mxPoint x="259.5" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_Z1Q3BvuzWRl_JL9kF0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539.5" y="760" as="sourcePoint" />
+            <mxPoint x="539.5" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
